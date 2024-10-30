@@ -5,7 +5,8 @@ const Home = () => {
     return (
         <>
             <div className='mt-20 ml-24 text-white font-semibold text-5xl'>Transforming Vision with Digital Kira</div>
-            <section>            
+            <section>
+            
                 <div>                
                     <img src={HeroSvg} alt="" className='-mt-36 relative z-[-10]' /> 
                 </div>
